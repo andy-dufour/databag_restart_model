@@ -1,0 +1,6 @@
+{
+  "id": "mycluster",
+  "nodes":
+    {"node1": {"restart_required": false},
+    "node2": {"restart_required": false}}
+}

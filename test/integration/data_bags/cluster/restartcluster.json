@@ -1,0 +1,6 @@
+{
+  "id": "restartcluster",
+  "nodes":
+    {"node1": {"restart_required": true},
+    "restart-ubuntu-1404": {"restart_required": true}}
+}
